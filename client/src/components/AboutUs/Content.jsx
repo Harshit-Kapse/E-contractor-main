@@ -17,7 +17,8 @@ const Content = () => {
                     We're working to turn our passion for providing best we can into a booming online website.
                     We hope you enjoy our website as much as we enjoy offering them to you.
                     I will keep posting more important posts on my Website for all of you. Please give your support and love.
-                    
+                    Thanks For Visiting Our Site
+                    Have a nice day!
                 </Text>
                 <Button
                     onClick={() => navigate('/contact')}
